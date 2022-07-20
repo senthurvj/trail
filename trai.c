@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("senthur");
+  int a,b;
+  scanf("%d%d",&a,&b);
+  printf("%d",a*b);
 }
